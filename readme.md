@@ -40,7 +40,4 @@ This bot uses the Node.js-based [chatgpt](https://github.com/transitive-bullshit
 
 ## 🚀 Usage
 
-Just post a tweet like:
 
-```text
-@ChatGPTBot What is 1 + 1?
